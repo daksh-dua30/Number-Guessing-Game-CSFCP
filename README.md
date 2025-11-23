@@ -26,10 +26,15 @@ cd <project-folder>
 npm install
 ```
 
-## Screenshots ##
+## OUTPUT EXAMPLE SCREENSHOTS ##
 
+1. USER GUESSED IN 
 
+2. USER GUESSED IN
 
+3. USER UNABLE TO GUESS IN 10 ATTEMPTS  
+
+   
 
 ## Features ##
 
