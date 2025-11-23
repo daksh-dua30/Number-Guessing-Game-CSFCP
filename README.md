@@ -28,11 +28,13 @@ npm install
 
 ## OUTPUT EXAMPLE SCREENSHOTS ##
 
-1. USER GUESSED IN 
+1. USER GUESSED IN 6 ATTEMPTS
 
    ![Output 1](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/204def73da8b9c0b13bb7d267f92ef4a3aa6327d/OUTPUT%201.jpg)
 
-2. USER GUESSED IN
+2. USER GUESSED IN 3 ATTEMPTS
+
+   
 
 3. USER UNABLE TO GUESS IN 10 ATTEMPTS  
 
