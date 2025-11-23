@@ -92,3 +92,6 @@ Clear prompts and messages ensure the game is easy to play, even for beginners.
 8. Fully Console-Based
 
 Runs directly in the terminal, making it lightweight and compatible with any system that supports Python.
+
+
+#                                           <---------------THANK YOU!--------------->
