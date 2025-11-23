@@ -26,7 +26,7 @@ cd <project-folder>
 npm install
 ```
 
-## OUTPUT EXAMPLE SCREENSHOTS ##
+## Output Examples Screenshots ##
 
 1. USER GUESSED IN 6 ATTEMPTS
 
@@ -38,6 +38,7 @@ npm install
 
 3. USER UNABLE TO GUESS IN 10 ATTEMPTS  
 
+   ![Output 3](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/e794c564a430d8f96aea68efcdbc69e188f196c1/OUTPUT%203.jpg)
    
 
 ## Features ##
