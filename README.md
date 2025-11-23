@@ -30,7 +30,7 @@ npm install
 
 1. USER GUESSED IN 
 
-   ![Output 1]([image_url](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/b3d06acd8c71c23af096540ff7afa59acc91d6eb/OUTPUT%201.jpg))
+   ![Output 1](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/204def73da8b9c0b13bb7d267f92ef4a3aa6327d/OUTPUT%201.jpg)
 
 2. USER GUESSED IN
 
