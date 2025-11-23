@@ -1,4 +1,4 @@
-# Number-Guessing-Game
+# <-------------------NUMBER GUESSING GAME------------------->
 
 ## Description
 
@@ -22,7 +22,19 @@ cd <project-folder>
 npm install
 ```
 
-## Screenshots
+## Output Examples Screenshots
+
+1. USER GUESSED IN 6 ATTEMPTS
+
+   ![Output 1](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/204def73da8b9c0b13bb7d267f92ef4a3aa6327d/OUTPUT%201.jpg)
+
+2. USER GUESSED IN 3 ATTEMPTS
+
+   ![Output 2](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/a6872f3b3a57c01810d69df9418b3814b685d716/OUTPUT%202%20.jpg)
+
+3. USER UNABLE TO GUESS IN 10 ATTEMPTS
+
+   ![Output 3](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/e794c564a430d8f96aea68efcdbc69e188f196c1/OUTPUT%203.jpg)
 
 ## Features
 
@@ -74,3 +86,5 @@ Clear prompts and messages ensure the game is easy to play, even for beginners.
 8. Fully Console-Based
 
 Runs directly in the terminal, making it lightweight and compatible with any system that supports Python.
+
+# <------------------------ THANK YOU! ------------------------>
