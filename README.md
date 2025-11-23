@@ -34,7 +34,7 @@ npm install
 
 2. USER GUESSED IN 3 ATTEMPTS
 
-   
+   ![Output 2](https://github.com/daksh-dua30/Number-Guessing-Game-CSFCP/blob/a6872f3b3a57c01810d69df9418b3814b685d716/OUTPUT%202%20.jpg)
 
 3. USER UNABLE TO GUESS IN 10 ATTEMPTS  
 
