@@ -30,6 +30,8 @@ npm install
 
 1. USER GUESSED IN 
 
+   ![image alt](image_url)
+
 2. USER GUESSED IN
 
 3. USER UNABLE TO GUESS IN 10 ATTEMPTS  
