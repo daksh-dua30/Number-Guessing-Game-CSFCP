@@ -1,4 +1,4 @@
-#                                           <---------------NUMBER GUESSING GAME--------------->
+#                                        <------------------NUMBER GUESSING GAME------------------>
 
 
 ## Description ##
@@ -94,4 +94,4 @@ Clear prompts and messages ensure the game is easy to play, even for beginners.
 Runs directly in the terminal, making it lightweight and compatible with any system that supports Python.
 
 
-#                                           <---------------THANK YOU!--------------->
+#                                        <------------------THANK YOU!------------------>
